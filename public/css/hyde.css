@@ -180,7 +180,7 @@ a.sidebar-nav-item:focus {
     top: 0;
     left: 0;
     bottom: 0;
-    width: 18rem;
+    width: 6rem;
     text-align: left;
   }
 }
@@ -196,22 +196,6 @@ a.sidebar-nav-item:focus {
   margin-top: 0;
   font-family: "Abril Fatface", serif;
   font-size: 3.25rem;
-}
-
-/* ad-sidebar nav */
-.ad-sidebar-nav {
-  margin-bottom: 1rem;
-}
-.ad-sidebar-nav-item {
-  display: block;
-  line-height: 1.75;
-}
-a.ad-sidebar-nav-item:hover,
-a.ad-sidebar-nav-item:focus {
-  text-decoration: underline;
-}
-.ad-sidebar-nav-item.active {
-  font-weight: bold;
 }
 
 @media (min-width: 48em) {
