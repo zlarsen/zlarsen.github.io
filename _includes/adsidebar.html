@@ -1,35 +1,15 @@
 <div class="ad-sidebar">
   <div class="container ad-sidebar-sticky">
     <div class="ad-sidebar-about">
-      <h1>
-        <a href="{{ site.baseurl }}">
-          {{ site.title }}
-        </a>
-      </h1>
-      <p class="lead">{{ site.description }}</p>
+      <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- First ads -->
+      <ins class="adsbygoogle"
+           style="display:inline-block;width:300px;height:600px"
+           data-ad-client="ca-pub-9359075354100731"
+           data-ad-slot="3644797200"></ins>
+      <script>
+      (adsbygoogle = window.adsbygoogle || []).push({});
+      </script>
     </div>
-
-    <nav class="ad-sidebar-nav">
-      <a class="ad-sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
-
-      {% comment %}
-        The code below dynamically generates a ad-sidebar nav of pages with
-        `layout: page` in the front-matter. See readme for usage.
-      {% endcomment %}
-
-      {% assign pages_list = site.pages %}
-      {% for node in pages_list %}
-        {% if node.title != null %}
-          {% if node.layout == "page" %}
-            <a class="ad-sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
-          {% endif %}
-        {% endif %}
-      {% endfor %}
-
-      <a class="ad-sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a>
-      <span class="ad-sidebar-nav-item">Currently v{{ site.version }}</span>
-    </nav>
-
-    <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
   </div>
 </div>
