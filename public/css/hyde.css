@@ -180,7 +180,7 @@ a.sidebar-nav-item:focus {
     top: 0;
     left: 0;
     bottom: 0;
-    width: 6rem;
+    width: 12rem;
     text-align: left;
   }
 }
