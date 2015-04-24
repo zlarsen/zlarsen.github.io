@@ -3,7 +3,7 @@ layout: post
 title: MySQL Permissions Tips
 ---
 
-Well the last time I posted it was all about MySQL, and I didn't post all I wanted to about MySQL. I've recently learned a fair amount about MySQL permissions which are very handy indeed. Today, I'll walk you through how to set up some basic permissions for a payroll table. 
+Well the last time I posted it was all about MySQL, and I didn't post all I wanted to about MySQL. I've recently learned a fair amount about MySQL permissions which are very handy indeed. Today, I'll walk you through how to set up some basic permissions for a payroll table.
 
 First this is the payroll table that we are going to use:
 
@@ -168,6 +168,8 @@ SHOW GRANTS For 'Mary'
 
 ```
 
-This shows that Mary truly does have MySQL permissions to do anything she wants in the MySQL database. 
+This shows that Mary truly does have MySQL permissions to do anything she wants in the MySQL database.
 
 The rest of my MySQL code can be found [here](https://github.com/ZachCustomBit/School/tree/master/cs-4307). If you have any questions or comments feel free to leave a comment below.
+
+{% include twitter_plug.html %}
