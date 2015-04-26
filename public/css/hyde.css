@@ -57,7 +57,8 @@ html {
   text-align: center;
   padding: 2rem 1rem;
   color: rgba(255,255,255,.5);
-  background-color: #202020;
+  background-color: #75b5aa;
+  /*To put it back to the original put #202020 as the bg color*/
 }
 @media (min-width: 48em) {
   .sidebar {
@@ -172,7 +173,8 @@ a.sidebar-nav-item:focus {
   text-align: center;
   padding: 2rem 1rem;
   color: rgba(255,255,255,.5);
-  background-color: #202020;
+  background-color: #75b5aa;
+  /*To put it back to the original put #202020 as the bg color*/
 }
 @media (min-width: 48em) {
   .ad-sidebar {
