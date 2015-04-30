@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Fix openssl Error
-desc: Fixes OpenSSL::SSL::SSLError: SSL_connect returned=1 errno=0 state=SSLv3 read server certificate B: certificate verify failed Error.
+desc: Fixes Openssl::ssl::sslError: ssl_connect returned=1 errno=0 state=sslv3 read server certificate B: certificate verify failed Error.
 keywords: Zach Larsen, Zachariah Larsen, zlarsen, zlarsenz, freelance developer ruby, freelance developer, OpenSSL, Ruby, Ruby On Rails, SSLERROR, SSL_connect error
 ---
 
