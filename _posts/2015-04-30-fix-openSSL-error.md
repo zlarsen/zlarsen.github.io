@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Fix openSSL Error
-keywords: Zach Larsen, Zachariah Larsen, zlarsen, zlarsenz, freelance developer ruby, freelance developer, OpenSSL, Ruby, Ruby On Rails, SSLERROR, SSL_connect error
+title: Fix openssl Error
+keywords: Zach Larsen, Zachariah Larsen, zlarsen, zlarsenz, freelance developer ruby, freelance developer, OpenSSL, Ruby, Ruby On Rails
 ---
 
 While developing lately in Ruby on Rails I ran into a dastardly error `OpenSSL::SSL::SSLError: SSL_connect returned=1 errno=0 state=SSLv3 read server certificate B: certificate verify failed` Which made me go, What the Heck?! After a lot of googling, I found the best way to fix this problem, if on a mac, is to run just two simple commands.
