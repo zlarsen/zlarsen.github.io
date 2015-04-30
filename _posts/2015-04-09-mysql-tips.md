@@ -1,6 +1,7 @@
 ---
 layout: post
 title: MySQL Tips
+keywords: Zach Larsen, Zachariah Larsen, zlarsen, zlarsenz, freelance developer ruby, freelance developer, MySQL, MySQL Permissions, MySQL Database
 ---
 
 I haven't posted in a while, but I have gotten a lot of homework done. Which is a really good thing. One of the classes I have gotten a lot done in is my Database Design class. It is a pretty laidback class for being an upper division course. I mean its course number is CS4307, which is pretty far up there. Anyways, what I want to share today is how to do some basic MySQL and then transition into some more difficult ones. First, [here](https://github.com/ZachCustomBit/School/tree/master/cs-4307) is a link to my Github Repo that has all my MySQL scripts for the class if anyone is interested.
