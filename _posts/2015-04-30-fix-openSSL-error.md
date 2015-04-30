@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fix openssl Error
+title: Fix openSSL Error
 keywords: Zach Larsen, Zachariah Larsen, zlarsen, zlarsenz, freelance developer ruby, freelance developer, OpenSSL, Ruby, Ruby On Rails
 ---
 
