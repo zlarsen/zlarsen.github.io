@@ -170,6 +170,6 @@ SHOW GRANTS For 'Mary'
 
 This shows that Mary truly does have MySQL permissions to do anything she wants in the MySQL database.
 
-The rest of my MySQL code can be found [here](https://github.com/ZachCustomBit/School/tree/master/cs-4307). If you have any questions or comments feel free to leave a comment below.
+The rest of my MySQL code can be found [here](https://github.com/zlarsen/School/tree/master/cs-4307). If you have any questions or comments feel free to leave a comment below.
 
 {% include twitter_plug.html %}

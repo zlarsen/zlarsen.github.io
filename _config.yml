@@ -23,7 +23,7 @@ paginate:         5
 version:          1.0.0
 
 github:
-  repo:           https://github.com/zachcustombit
+  repo:           https://github.com/zlarsen
 
 pages_list:
   About: '/about'
